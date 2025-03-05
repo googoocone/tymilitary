@@ -72,7 +72,7 @@ export default function Home() {
           <SwiperMb></SwiperMb>
         </div>
       </div>
-      <div className="hidden sm:w-full h-[500px]">
+      <div className="hidden sm:block sm:w-full sm:h-[500px]">
         <div className="w-full h-[200px] text-center mt-20 text-4xl font-semibold">
           <div>김태용변호사가 알려주는 법률지식</div>
           <div className="mt-5 flex items-center justify-center">
